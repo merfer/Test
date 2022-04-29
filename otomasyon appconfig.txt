@@ -1,0 +1,17 @@
+<add key="LicenseServiceServerName" value="192.168.100.223" />
+	  <add key="LicenseServiceServerPort" value="1444" />
+	  <add key="Modules" value="" />
+	  <add key="NewVersionServer" value="" />
+	  <add key="EnableDiagnosticActions" value="False" />
+	  <add key="ClientSettingsProvider.ServiceUri" value="" />
+	  <add key="Setup" value="1" />
+	  <add key="Languages" value="en-US;en;tr-TR" />
+	  <add key="DbType" value="0" />
+	  <add key="DBServerName" value="10.10.16.15\SQL2019" />
+	  <add key="DBName" value="LUTUF_OTOMASYON" />
+	  <add key="DBUser" value="GUNCEL" />
+	  <add key="DBPass" value="tfgh" />
+	  <add key="PasswordFieldsEncryptionMethod" value="NOENCRYPTION" />
+	  <add key="AppLanguage" value="TR" />
+	  <add key="DBServerPort" value="" />
+	  <add key="DBServiceName" value="" />
